@@ -2,8 +2,7 @@
 
 > [!IMPORTANT]
 > Active project repositories have moved from the `gt-sse-center` GitHub organization to the new `gt-csse` GitHub organization: https://github.com/gt-csse.
-> Some older archived repositories remain here temporarily for posterity.
-> This organization is scheduled to be deleted after 90 days from May 18, 2026, on or after August 16, 2026.
+> This organization remains available for posterity, including some older archived repositories.
 
 This Github repository is the central location for public resources developed by [Georgia Tech's Center for SSE](https://ssecenter.cc.gatech.edu/). Please check our pinned repositories for more details on best practices and resources for software engineering of scientific applications.
 
