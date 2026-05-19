@@ -1,7 +1,5 @@
 # Georgia Tech's Center for Scientific Software Engineering (CSSE)
 
-This Github repository is the central location for public resources developed by [Georgia Tech's Center for SSE](https://ssecenter.cc.gatech.edu/). Please check our pinned repositories for more details on best practices and resources for software engineering of scientific applications.
-
-The Center for Scientific Software Engineering (CSSE) at Georgia Tech is a new effort that is part of the [Virtual Institute for Scientific Software (VISS)](https://www.schmidtfutures.com/our-work/virtual-institute-for-scientific-software/). VISS was launched by Schmidt Futures to address the need for training and educating software engineers, and the CSSE at Georgia Tech is focused on developing new methodologies for improving high-performance scientific codes and for training tomorrow’s software engineers.
-
-We are currently hiring the core team for this effort, so please check back in the near future for additional information.  
+> [!IMPORTANT]
+> Active project repositories have moved from the `gt-sse-center` GitHub organization to the new `gt-csse` GitHub organization: https://github.com/gt-csse.
+> This organization remains available for posterity, including some older archived repositories.
